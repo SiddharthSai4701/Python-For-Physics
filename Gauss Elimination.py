@@ -83,4 +83,3 @@ for i in range(n-2,-1,-1):
 # Printing the solution matrix
 
 print("The solution matrix is: ",X,sep="\n")
-    
