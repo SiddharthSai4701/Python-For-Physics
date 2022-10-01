@@ -2,7 +2,7 @@
 """
 Created on Wed Oct  6 10:10:40 2021
 
-@author: sidvs
+@author: Siddharth Vijay Sai
 """
 
 import numpy as np
