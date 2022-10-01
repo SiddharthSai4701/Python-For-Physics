@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 26 15:39:00 2021
 
-@author: sidvs
+@author: Siddharth Vijay Sai
 """
 
 a = float(input("Enter the mass (in kilograms) of the first object: "))
