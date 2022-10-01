@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 26 14:35:10 2021
 
-@author: sidvs
+@author: Siddharth Vijay Sai
 """
 
 import math as m
